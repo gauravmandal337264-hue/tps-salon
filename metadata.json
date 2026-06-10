@@ -1,0 +1,6 @@
+{
+  "name": "TPS Hair & Beauty Studio",
+  "description": "Luxury Hair Salon, Beauty Parlour & Bridal Makeup Studio by L'Oréal in Bongaigaon, Assam, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
